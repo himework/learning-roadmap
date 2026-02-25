@@ -1,0 +1,1 @@
+print("Month1 クリア!")
