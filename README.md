@@ -19,16 +19,16 @@ Python: 3.14.3
 **発見：Pythonは「Excelの外」で動く**
 
 ミニ（必須）
-- [x] `python --version` が出る ← 完了済み（Python 3.14.3）
-- [ ] Pythonでフォルダの中を読んで、ファイル名を一覧表示する
-- [ ] `hello.py` を書いて実行する
+- [x] `python --version` が出る ← 完了（Python 3.14.3）
+- [x] Pythonでフォルダの中を読んで、ファイル名を一覧表示する ← 完了
+- [x] `hello.py` を書いて実行する ← 完了
 
 標準
 - [ ] venv（仮想環境）を作る
 - [ ] pip install requests して動作確認
 
 ボス
-- [ ] GitHubにpush
+- [x] GitHubにpush ← 完了
 
 ---
 
@@ -125,3 +125,4 @@ D: 自動化ツールを極めたい
 ## 実行ログ
 - 2026-02-23: 開始日を確定
 - 2026-02-25: 計画を全面改訂（VBA脱出・発見型に変更）
+- 2026-02-25: Month1ミニ完了（hello.py実行、list_files.py、GitHub push）
